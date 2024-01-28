@@ -34,16 +34,6 @@ I have been learning programming languages for 2-3 years. These include python, 
 <a href="http://www.github.com/byMurodilov "><img src="https://github-readme-streak-stats.herokuapp.com/?user=byMurodilov &stroke=84cc16&background=27272a&ring=14b8a6&fire=14b8a6&currStreakNum=84cc16&currStreakLabel=14b8a6&sideNums=84cc16&sideLabels=84cc16&dates=84cc16&hide_border=true" /></a>
 <a href="https://github.com/byMurodilov " align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=byMurodilov &langs_count=10&title_color=14b8a6&text_color=84cc16&icon_color=22c55e&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-.           ✦             ˚              *                        .              .            ✦              ‍ ‍ ‍ ‍                  ,      
-
-.             .   ﾟ      .             .
-
-      ,       .                                  ☀️                                                        .           .             .                                                                                        ✦        ,               🚀        ,    ‍ ‍ ‍ ‍               .            .                                             ˚            ,                                       .                      .             .               *            ✦                                               .                  .           .        .     🌑              .           .              
-
- ˚                     ﾟ     .               .      🌎 ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ,                * .                    .           ✦             ˚              *                        .              .
-
-
-
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
